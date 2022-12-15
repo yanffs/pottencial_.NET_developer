@@ -1,2 +1,3 @@
-# pottencial_.NET_developer
-Bootcamp (Pottencial in Dio.me)
+# Bootcamp Pottencial_.NET_developer
+
+Informações sobre o bootcamp (Dio.me) Pottencial .NET
